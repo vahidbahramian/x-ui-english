@@ -30,7 +30,7 @@
 # نصب و ارتقاء تک دستوره
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/vahidbahramian/x-ui-english/master/install.sh)
 ````
 ## نصب و ارتقاء دستی
 
@@ -39,7 +39,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/ma
 sudo su
 cd
 ````
-2. سپس آخرین بسته فشرده را از https://github.com/NidukaAkalanka/x-ui-english/releases/latest دانلود کنید، به طور معمول معماری «amd64» را انتخاب کنید.
+2. سپس آخرین بسته فشرده را از https://github.com/vahidbahramian/x-ui-english/releases/latest دانلود کنید، به طور معمول معماری «amd64» را انتخاب کنید.
 
 در پایان دستورات زیر را به ترتیب اجرا کنید:
 
@@ -128,7 +128,7 @@ docker build -t x-ui .
 **نتیجه:**
 - پس از گذشت حدود 10 ثانیه از قطع کردن رایانه شخصی، اتصال تلفن همراه خود را دوباره به دست می آورد.
 
-**اگر یک نصب جدیدی باشد، این توابع، به خصوص محدود کردن IP، بی عیب و نقص کار خواهد کرد. اما اگر نسخه شما یک ارتقا باشد، ممکن است آن ها کار نکنند در حالی که وضعیت XRAY: اجرا نمی شود، باشد. در چنین مواردی لطفاً [اینجا](https://github.com/NidukaAkalanka/x-ui-english/discussions/27) مراجعه کنید.
+**اگر یک نصب جدیدی باشد، این توابع، به خصوص محدود کردن IP، بی عیب و نقص کار خواهد کرد. اما اگر نسخه شما یک ارتقا باشد، ممکن است آن ها کار نکنند در حالی که وضعیت XRAY: اجرا نمی شود، باشد. در چنین مواردی لطفاً [اینجا](https://github.com/vahidbahramian/x-ui-english/discussions/27) مراجعه کنید.
 
 ## سیستم عامل های پیشنهادی
 - CentOS 7+
